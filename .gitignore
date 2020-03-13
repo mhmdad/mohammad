@@ -1,32 +1,13 @@
-# Prerequisites
-*.d
+#include <iostream>
+#include <conio.h>
+using namespace std;
+int main()
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+{
+cout<<"hello world!"
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+getch():
+return 0;
+}
